@@ -1,0 +1,3 @@
+Repositórios do Github do curso
+https://github.com/cod3rcursos/deploy-heroku-frontend
+https://github.com/cod3rcursos/deploy-heroku-backend

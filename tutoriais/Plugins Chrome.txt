@@ -1,0 +1,2 @@
+Redux DevTools(visualizador de estados)
+Postman (base de dados)

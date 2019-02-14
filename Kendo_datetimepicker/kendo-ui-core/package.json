@@ -1,0 +1,79 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "kendo-ui-core@^2016.3.914",
+        "scope": null,
+        "escapedName": "kendo-ui-core",
+        "name": "kendo-ui-core",
+        "rawSpec": "^2016.3.914",
+        "spec": ">=2016.3.914 <2017.0.0",
+        "type": "range"
+      },
+      "D:\\Repository\\Projetos e Testes\\SitradInbox_ConfigRemote_FrontEnd\\node_modules\\kendo-ui-react-jquery-datetimepicker"
+    ]
+  ],
+  "_from": "kendo-ui-core@>=2016.3.914 <2017.0.0",
+  "_id": "kendo-ui-core@2016.3.1317",
+  "_inCache": true,
+  "_location": "/kendo-ui-core",
+  "_nodeVersion": "4.6.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/kendo-ui-core-2016.3.1317.tgz_1484637146459_0.949832514161244"
+  },
+  "_npmUser": {
+    "name": "telerik",
+    "email": "npm@telerik.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "kendo-ui-core@^2016.3.914",
+    "scope": null,
+    "escapedName": "kendo-ui-core",
+    "name": "kendo-ui-core",
+    "rawSpec": "^2016.3.914",
+    "spec": ">=2016.3.914 <2017.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/kendo-ui-react-jquery-datetimepicker"
+  ],
+  "_resolved": "https://registry.npmjs.org/kendo-ui-core/-/kendo-ui-core-2016.3.1317.tgz",
+  "_shasum": "96877563c05c5b39c8ecad4598294944a29a6830",
+  "_shrinkwrap": null,
+  "_spec": "kendo-ui-core@^2016.3.914",
+  "_where": "D:\\Repository\\Projetos e Testes\\SitradInbox_ConfigRemote_FrontEnd\\node_modules\\kendo-ui-react-jquery-datetimepicker",
+  "bugs": {
+    "url": "https://github.com/telerik/kendo-ui-core/issues"
+  },
+  "dependencies": {
+    "jquery": "<3.0.0"
+  },
+  "description": "",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "96877563c05c5b39c8ecad4598294944a29a6830",
+    "tarball": "https://registry.npmjs.org/kendo-ui-core/-/kendo-ui-core-2016.3.1317.tgz"
+  },
+  "homepage": "https://github.com/telerik/kendo-ui-core#readme",
+  "license": "Apache 2.0",
+  "main": "js/kendo.ui.core.js",
+  "maintainers": [
+    {
+      "name": "telerik",
+      "email": "npm@telerik.com"
+    }
+  ],
+  "name": "kendo-ui-core",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/telerik/kendo-ui-core.git"
+  },
+  "scripts": {},
+  "version": "2016.3.1317"
+}

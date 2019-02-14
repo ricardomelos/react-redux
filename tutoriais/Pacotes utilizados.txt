@@ -1,0 +1,48 @@
+**************  COMANDO IMPORTANTES   *********************
+npm init -y                     -> gera o projeto com o arquivo package.json
+npm i --save-dev                -> instala dependência somente em ambiente de desenvolvimento, em produção, a aplicação precisa instalar novamente as dependências
+./node_modules/.bin/webpack     -> gera os arquivos de saída "bundle.js, app.css e index.html" na pasta "public"
+code .                          -> abre o VSCode a partir do terminal utilizando a pasta atual deste
+***********************************************************
+
+
+**************  PACOTES UTILIZADOS NO CURSO   *************
+admin-lte@2.3.6                     -> Template de frontend
+axios@0.15.3                        -> http client baseado em promises
+babel-plugin-transform-object-rest-spread@6.22.0  ->plugin para utilizar operador spread (...)
+babel-core@6.22.1                   -> core do pacote babel (faz o transpiling do EcmaScript 2015)
+babel-loader@6.2.10                 -> loader do babel
+babel-preset-es2015@6.22.0          -> pacote de referências do transpiling do ec2015
+babel-preset-react@6.22.0           -> preset do  react
+babel-plugin-react-html-attrs@2.0.0 ->
+body-parser@1.15.2                  -> parse de requisições, interpreta o corpo da requisição e cria objetos
+css-loader@0.26.1                   -> loader de aqruivo CSS
+express@4.14.0                      -> pacote webserver
+express-query-int@1.0.1             -> Resolve problemas nas paginações
+extract-text-webpack-plugin@1.0.1   -> pacote para criação de arquivo CSS
+font-awesome@4.7.0                  -> Biblioteca de fontes
+ionicons@3.0.0                      -> Bibliotaca de icones
+lodash@4.17.4                       -> Simplificador de ações
+mongoose@4.7.0                      -> conector do mongo(DB) e mapeamento de objetos de banco
+mongoose-paginate@5.0.3             -> Faz paginação de consultas no banco
+node-restful@0.2.5                  -> integra o express e o mongoose.
+nodemon@1.11.0                      -> launhcher para ambiente de desenvolvimento
+pm2@2.1.5 b                         -> launcher do backend
+react@15.4.2                        -> pacote do react
+react-dom@15.4.2                    -> pacote react que trata a dom
+redux-form@6.4.1                    ->
+react-router@3.0.2                  -> roteador de requisições REST
+react-redux@4.4.6                   -> Linker entre react e redux
+react-redux-toastr@4.4.2            -> Para mensagens
+redux@3.6.0                         -> framework de gerenciamento de estados
+redux-promise@0.5.3                 -> Middleware que trata promise assíncrona
+redux-multi@0.1.12                  -> Midlleware que possibilita o retorno das actions serem arrays.
+redux-thunk@2.1.0                   -> Middleware que possibilita o uso do dispatch a qualquer momento.
+style-loader@0.13.1                 -> loader de arquivo CSS
+webpack@1.14.0                      -> pacote webpack
+webpack-dev-server@1.16.2           -> pacote webpack para ambiente de desenvolvimento
+*************************************************************
+
+react@15.4.2 react-dom@15.4.2 redux-form@6.4.1 react-router@3.0.2 react-redux@4.4.6 react-redux-toastr@4.4.2 redux@3.6.0 redux-promise@0.5.3 redux-multi@0.1.12 redux-thunk@2.1.0 style-loader@0.13.1 webpack@1.14.0 webpack-dev-server@1.16.2
+ 
+
